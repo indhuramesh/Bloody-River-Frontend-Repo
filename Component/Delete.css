@@ -1,0 +1,47 @@
+body
+{
+  background-image: url('https://t4.ftcdn.net/jpg/00/57/88/83/360_F_57888323_UfOwb07haVhrN1Z85qHt8oqyYfX4QMil.jpg');
+ 
+
+  background-size: 1400px 650px;
+  background-repeat: no-repeat;
+  
+  
+}
+.h1
+{
+  text-align: center;
+  color: red;
+  font-size: 50px;
+  
+}
+.head
+{
+  
+  text-align: center;
+  color: red;
+  font-size: 40px;
+}
+.card6
+{
+  
+
+  background-color: red;
+    
+    padding: 15px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: white;
+    opacity: 0.6;
+    width: 350px;
+    height:150px;
+    margin: auto;
+}
+.username2
+{
+  width:340px;
+  height:30px
+}
+

@@ -1,0 +1,31 @@
+.body2{
+  background-image: url('https://t4.ftcdn.net/jpg/00/57/88/83/360_F_57888323_UfOwb07haVhrN1Z85qHt8oqyYfX4QMil.jpg');
+  background-size:1400px 2000px;
+  background-repeat:no-repeat;
+}
+.head4{
+    text-align:center;
+    color:red;
+    font-size: 40px;
+  
+  }
+.head2
+{
+    
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+.center1{
+  text-align:center;
+  margin: 100px;
+}
+.col
+{
+  background-color:red;
+  color:white;
+}
+
+  tr:nth-child(even) {
+    background-color: #f79bc1;
+  }
